@@ -9,7 +9,7 @@
 name: Java CI with Maven
 
 env:
-  IMAGE_NAME: 99999598
+  IMAGE_NAME: 82265626
 
 on: workflow_dispatch
   push:
